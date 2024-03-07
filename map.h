@@ -15,6 +15,7 @@
  *        map::iterator       : An iterator through a map
  * Author
  *    Andre Regino & Marco Varela
+ *    this is a test
  ************************************************************************/
 
 #pragma once
